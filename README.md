@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 À propos:
 🔭 Je suis actuellement en train de développer mes compétences comme React, Node, Express...<br>🤔 À la recherche d'opportunités de travail.<br>📫 Contactez-moi à : zosted62400@gmail.com <br>💪🏼 Objectifs futurs : Devenir développeur Full-Stack.<br><br><br>🔭 I'm currently working on building my skills like React, Node, Express...<br>🤔 Looking for work oppotunities.<br>📫 Reach me at : zosted62400@gmail.com <br>💪🏼 Future Goals: Becoming a Full-Stack developer.
 
 
